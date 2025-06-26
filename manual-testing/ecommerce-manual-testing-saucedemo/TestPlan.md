@@ -3,7 +3,7 @@
 ## 1. Introduction
 
 This test plan describes the approach and scope for manual testing of the [SauceDemo](https://www.saucedemo.com/) e-commerce web application.  
-The objective is to verify the main business flows—login, product selection, cart management, and checkout—and ensure the application is robust against common bugs.
+The objective is to verify the main business flows—login, product selection, cart management, and checkout and ensure the application is robust against common bugs.
 
 ---
 
