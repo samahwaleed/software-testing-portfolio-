@@ -1,3 +1,4 @@
+
 # Test Plan: SauceDemo E-Commerce Website
 
 ## 1. Introduction
@@ -102,7 +103,7 @@ The objective is to verify the main business flows—login, product selection, c
 
 ## 11. Resources
 
-- Test Engineer: Samah Abusalim
+- Test Engineer: [Your Name]
 - Tools: Web browser, Excel, Markdown, Screenshot tool
 
 ---
@@ -118,7 +119,7 @@ The objective is to verify the main business flows—login, product selection, c
 
 | Name        | Role              | Signature    |
 |-------------|-------------------|--------------|
-| Samah Abusalim | Test Engineer  | samah     |
+| [Your Name] | Test Engineer     | [Signed]     |
 
 ---
 
