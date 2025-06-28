@@ -31,12 +31,12 @@ Manual testing was performed on the SauceDemo e-commerce web application. The ma
 
 ## 4. Defect Summary
 
-| Bug ID   | Linked Test Case(s) | Summary                                          | Severity       | Status | Screenshot/File         | Comments / Notes                   |
-|----------|---------------------|--------------------------------------------------|----------------|--------|------------------------|------------------------------------|
-| BUG-001  | TC-021              | Locked out user can't login                       | Info           | Open   | Screenshots/bug1.png   | Feature; checked for clarity of message |
-| BUG-002  | TC-001              | No password show/hide toggle                     | Minor          | Open   | Screenshots/bug2.png   | Usability enhancement              |
-| BUG-003  | TC-007              | Product images/titles not always clickable       | Minor          | Open   | Screenshots/bug3.png   | Not standard e-commerce behavior   |
-| BUG-004  | TC-025              | Error messages don't auto-close                  | Enhancement    | Open   | Screenshots/bug7.png   | UX improvement possible            |
+| Bug ID   | Linked Test Case(s) | Summary                                          | Severity       | Status | Comments / Notes                   |
+|----------|---------------------|--------------------------------------------------|----------------|--------|------------------------------------|
+| BUG-001  | TC-021              | Locked out user can't login                       | Info           | Open   | Feature; checked for clarity of message |
+| BUG-002  | TC-001              | No password show/hide toggle                     | Minor          | Open   | Usability enhancement              |
+| BUG-003  | TC-007              | Product images/titles not always clickable       | Minor          | Open   | Not standard e-commerce behavior   |
+| BUG-004  | TC-025              | Error messages don't auto-close                  | Enhancement    | Open   | UX improvement possible            |
 
 ---
 
