@@ -32,14 +32,14 @@ Testing was conducted using an Android emulator (Pixel 4a, Android 13) and the l
 
 ## 4. Defect Summary
 
-| Bug ID   | Linked Test Case(s) | Summary                                 | Severity | Status | Screenshot/File      | Comments                 |
-|----------|---------------------|-----------------------------------------|----------|--------|----------------------|--------------------------|
-| BUG-001  | TC-004, TC-019      | Task with empty title can be saved      | Major    | Open   | Screenshots/bug1.png | Data quality issue       |
-| BUG-002  | TC-013, TC-014      | Notification not reliably received      | Major    | Open   | Screenshots/bug2.png | Possible emulator issue  |
-| BUG-003  | TC-005, TC-006      | Long task title breaks UI layout        | Minor    | Open   | Screenshots/bug3.png | Readability affected     |
-| BUG-004  | TC-021              | Duplicate tasks allowed                 | Minor    | Open   | Screenshots/bug4.png | No duplicate check       |
-| BUG-005  | TC-025              | Buttons/icons lack accessibility labels | Minor    | Open   | Screenshots/bug5.png | Accessibility issue      |
-| BUG-006  | TC-017              | Dark mode text contrast is poor         | Minor    | Open   | Screenshots/bug6.png | UI/UX issue              |
+| Bug ID   | Linked Test Case(s) | Summary                                 | Severity | Status | Comments                 |
+|----------|---------------------|-----------------------------------------|----------|--------|--------------------------|
+| BUG-001  | TC-004, TC-019      | Task with empty title can be saved      | Major    | Open   | Data quality issue       |
+| BUG-002  | TC-013, TC-014      | Notification not reliably received      | Major    | Open   | Possible emulator issue  |
+| BUG-003  | TC-005, TC-006      | Long task title breaks UI layout        | Minor    | Open   | Readability affected     |
+| BUG-004  | TC-021              | Duplicate tasks allowed                 | Minor    | Open   | No duplicate check       |
+| BUG-005  | TC-025              | Buttons/icons lack accessibility labels | Minor    | Open   | Accessibility issue      |
+| BUG-006  | TC-017              | Dark mode text contrast is poor         | Minor    | Open   | UI/UX issue              |
 
 ---
 
