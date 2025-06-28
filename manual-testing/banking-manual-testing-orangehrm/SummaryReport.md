@@ -36,11 +36,11 @@ The aim was to validate core HR workflows (login, employee management, leave man
 
 ## 4. Defect Summary
 
-| Bug ID   | Linked Test Case(s) | Summary                                  | Severity | Status | Screenshot/File      | Comments                  |
-|----------|---------------------|------------------------------------------|----------|--------|----------------------|---------------------------|
-| BUG-001  | TC-025              | No validation on employee first name     | Major    | Open   | Screenshots/bug1.png | Data integrity issue      |
-| BUG-002  | TC-011, TC-012      | Approve/Reject not available for leave   | Blocker  | Open   | Screenshots/bug2.png | Demo limitation           |
-| BUG-003  | TC-013              | Leave balance does not update            | Major    | Open   | Screenshots/bug3.png | Feature not testable      |
+| Bug ID   | Linked Test Case(s) | Summary                                  | Severity | Status | Comments                  |
+|----------|---------------------|------------------------------------------|----------|--------|---------------------------|
+| BUG-001  | TC-025              | No validation on employee first name     | Major    | Open   | Data integrity issue      |
+| BUG-002  | TC-011, TC-012      | Approve/Reject not available for leave   | Blocker  | Open   | Demo limitation           |
+| BUG-003  | TC-013              | Leave balance does not update            | Major    | Open   | Feature not testable      |
 
 ---
 
